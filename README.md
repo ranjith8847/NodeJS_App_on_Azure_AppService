@@ -83,11 +83,6 @@ You learn:
 - Creating a server **without firewall rules**  
 - Connecting through **DBeaver**
 
-Example screenshots:
-
-![Enter image alt description](Images/tJJ_Image_1.png)
-![Enter image alt description](Images/Iqd_Image_2.png)
-
 ---
 
 ## 3️⃣ App Service (Node.js App Hosting)
@@ -99,10 +94,6 @@ Includes:
 - Skipping repo connection for learning/demo  
 - Screenshot walkthrough of the service creation  
 
-Example:
-
-![Enter image alt description](Images/jtG_Image_11.png)
-
 ---
 
 ## 4️⃣ Azure Front Door (Global Routing)
@@ -113,11 +104,6 @@ You configure:
 - Backend Pools  
 - Adding both primary & secondary App Services  
 - Creating Routing Rules  
-
-Screenshots:
-
-![Enter image alt description](Images/jnk_Image_16.png)
-![Enter image alt description](Images/FZ2_Image_17.png)
 
 ---
 
@@ -131,10 +117,6 @@ You learn how to:
 - Generate Personal Access Tokens (PAT)  
 - Install the service to run pipelines  
 
-Example:
-
-![Enter image alt description](Images/cfv_Image_22.png)
-
 ---
 
 ## 6️⃣ Build Pipelines (CI)
@@ -147,10 +129,6 @@ Includes:
 - Assigning the self-hosted agent pool  
 - Running the pipeline  
 
-Example:
-
-![Enter image alt description](Images/TCU_Image_38.png)
-
 ---
 
 ## 7️⃣ Release Pipelines (CD)
@@ -162,10 +140,6 @@ You learn:
 - Adding Azure App Service Deploy  
 - Selecting subscription & authorizing  
 - Deploying final application to App Service  
-
-Example:
-
-![Enter image alt description](Images/FIt_Image_45.png)
 
 ---
 
