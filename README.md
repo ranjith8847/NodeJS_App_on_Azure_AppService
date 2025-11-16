@@ -179,11 +179,4 @@ This documentation mimics **production workflows**, making it ideal for:
 
 ---
 
-# 🤝 Contributions
-
-PRs and improvements are welcome.  
-If you'd like to improve formatting, add automation scripts, or upgrade the pipeline YAML—feel free!
-
----
-
 # ⭐ If you found this useful, star the repository!
