@@ -1,4 +1,4 @@
-# Azure_app_deployment
+# Azure_app_deployment_documentation
 the repo shows Deploying a Node.js Application to Azure App Service Using Azure DevOps
 Also covers basic components of Azure and the steps to deploy those.
 
